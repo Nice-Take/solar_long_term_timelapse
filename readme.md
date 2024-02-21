@@ -1,6 +1,6 @@
 # Solar-Powered Timelapse Camera System
-* The code for this project is currently not public but the overview is*
-* To interact with this currently deployed sample visit: https://nicetake.com/consolidated_viewer*
+* The code for this project is currently not public
+* To interact with this currently deployed sample visit: https://nicetake.com/consolidated_viewer
 
 ## Project Overview
 
