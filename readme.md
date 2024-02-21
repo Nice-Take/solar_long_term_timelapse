@@ -43,7 +43,7 @@ The system is powered by custom software designed to manage power consumption, a
 *Caption: Desktop view from Safari.*
 
 
-![Mobile Grid View](https://nicetake.com/tl_images/TimelapseViewer)
+![Mobile Grid View](https://nicetake.com/tl_images/TimelapseViewer.png)
 *Caption: Mobile grid view.*
 
 
