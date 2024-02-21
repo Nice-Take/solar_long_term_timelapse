@@ -16,7 +16,7 @@ The project's cornerstone is its innovative use of solar power, enabling the cam
 
 ### The Hardware Nice & Tidy
 
-The project's cornerstone is its innovative use of solar power, enabling the camera system to run indefinitely in outdoor settings.
+Due to the distance from the subject special lensing had to be used.
 
 ![The Brain](https://nicetake.com/tl_images/IMG_5220.jpeg)
 *Caption: The solar-powered timelapse camera build ready for the field.*
