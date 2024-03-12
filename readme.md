@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-The objective of this project was to develop a self-sustaining, solar-powered timelapse camera system capable of continuous operation and remote access without manual intervention. The system also needed the ability to trigger a capture at any time of day and return a high-resoultion image within 5 seconds. This system is complemented by a user-friendly front-end application for users to access and view timelapse esults or even capture a new image on demand.
+The objective of this project was to develop a self-sustaining, solar-powered timelapse camera system capable of continuous operation and remote access without manual intervention. The system also needed the ability to trigger a capture at any time of day and return a high-resoultion image within 5 seconds. There was also a requirement to be able to look at the previously captured images and navigate to them quickly via date-picker. This system is complemented by a user-friendly front-end application for users to access and view timelapse esults or even capture a new image on demand.
 
 ## Hardware Engineering
 
